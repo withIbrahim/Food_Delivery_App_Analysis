@@ -5,6 +5,7 @@ This project will help us understand how a real-world database is analyzed using
 This project is divided by two parts:
 
 ●Module 1: Pre-precess the data using python 
+
 ●Module 2: SQL for retrieve useful information from the database
 
 Let's deep drive into.....
